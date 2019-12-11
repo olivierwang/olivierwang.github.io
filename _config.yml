@@ -58,10 +58,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Olivier Wang"
+  # name   : "Olivier Wang"
  # avatar : "/assets/images/bio-photo.jpg"
-  bio    : ""
-  links:
+  # bio    : ""
+  # links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://"
